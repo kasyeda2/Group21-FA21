@@ -1,8 +1,8 @@
-# Group TEAM_NUMBER
-Group Name: TEAM_NAME
+# Group 21
+Group Name: Covid Cam
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1I3kXeYkoMmiLjyfbuMHnrjCk7SNMw0JPHUsk8jB3kVE/edit)
 
-Team Members: STUDENTS_NETIDS
+Team Members: chengw4, salsh2, kasyeda2, ananyab3, cw72
 
-Project Manager: PM_NETID
+Project Manager: jonahlt2
